@@ -1,0 +1,9 @@
+.credentials.json
+history.jsonl
+backups/
+cache/
+file-history/
+projects/
+sessions/
+shell-snapshots/
+.claude/
