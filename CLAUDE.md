@@ -10,7 +10,7 @@
 **Founder & CSO/CAIO:** Robson Sant'Ana  
 **GitHub:** github.com/onethankdigital  
 **Localização:** Santo André, SP — ABC Paulista  
-**Posicionamento:** "Não Somos Agência. Somos Comunicação."
+**Posicionamento:** "Somos Presença. Somos Comunicação."
 
 **Modelo de negócio:** Agência B2B de comunicação e tecnologia que constrói infraestruturas digitais completas — não entregamos marketing básico. Operamos como um LAB: validamos tudo internamente antes de oferecer ao cliente.
 
